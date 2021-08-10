@@ -1,5 +1,5 @@
 package com.tcs.entity;
 
-public enum Role {
+public enum ROLE {
 	BEGINEER,INTERMEDIATE,EXPECT;
 }
