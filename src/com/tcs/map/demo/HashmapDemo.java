@@ -14,7 +14,9 @@ public class HashmapDemo {
 			mathScores.put("student"+i,
 					new Student(new Float(100*Math.random()),new Float(100*Math.random()),new Float(100*Math.random())));
 		}
-		
+		Boolean exits=mathScores.containsKey("student1");
+		//mathScores.put("student1",34F)
+		mathScores.remove("student1");
 		System.out.println(mathScores);
 	}
 }
