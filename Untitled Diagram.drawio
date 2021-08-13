@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-13T06:00:56.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="3VpbgBCGIakXH455Cll7" version="14.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-13T06:01:51.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="ha3qV5rSWby0svFPSUAR" version="14.9.6" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="866" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -180,7 +180,7 @@
         <mxCell id="nczOKeypemcZBsmfhhhQ-28" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="nczOKeypemcZBsmfhhhQ-27">
           <mxGeometry width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nczOKeypemcZBsmfhhhQ-29" value="AppoinmentID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="nczOKeypemcZBsmfhhhQ-27">
+        <mxCell id="nczOKeypemcZBsmfhhhQ-29" value="AppoinmentID Int(10)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="nczOKeypemcZBsmfhhhQ-27">
           <mxGeometry x="30" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nczOKeypemcZBsmfhhhQ-30" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nczOKeypemcZBsmfhhhQ-26">
